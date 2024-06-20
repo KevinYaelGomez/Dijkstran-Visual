@@ -1,5 +1,6 @@
 Hola profesor solo escribo esto para que sepa que se necesita instalar pygame para poder correr el algoritmo
 
+Solo ingrese esto en la teminal para instalarlo
 --python -m pip install -U pygame==2.5.2
 
 Una vez se carga el programa presione la barra espaciador de su teclado para inicio o detener la simulación
